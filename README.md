@@ -1,6 +1,6 @@
 # 🐱‍👤 Sudden Lee 🐱‍👤
 
-![](https://www.salondelasie.com/wp-content/uploads/2017/07/expo-Lionel-Boulet_SDA.jpg)
+![](https://raw.githubusercontent.com/Ewillian/Sudden-Lee/master/Img/SuddenLee.png)
 
 ##   🗒  Summary  🗒 
 
